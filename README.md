@@ -2,7 +2,7 @@
 
 Tēnā koe e hoa! 
 
-Hello my fellow geospatial enthusiasts. My name is Laura and this is my portfolio. 
+Hello my fellow geospatial enthusiasts. My name is Laura (she/her) and this is my portfolio. 
 
 ## Blogs
 
