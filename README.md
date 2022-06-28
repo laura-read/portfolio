@@ -21,7 +21,7 @@ When I'm not studying or working, you can find me learning to sail on my Farr 72
 </p>
 
 ## Contact 
-Here is [my LinkedIn](https://www.linkedin.com/in/laura-read-hello/). You can also reach me by email at lauralynetteread@gmail.com. 
+Here is my [LinkedIn](https://www.linkedin.com/in/laura-read-hello/). You can also reach me by email at lauralynetteread@gmail.com. 
 
 
 
