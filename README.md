@@ -16,7 +16,7 @@ I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised
 When I'm not studying or working, you can find me learning to sail on my Farr 727 called *Bumblebee*, hiking around Aotearoa, or relaxing and crocheting. 
 
 <p align="center">
-  <img src="https://laura-read.github.io/portfolio/me_pinnacles.jpg" alt="pinnacles_film" width="500" />
+  <img src="https://laura-read.github.io/portfolio/me_pinnacles.jpg" alt="pinnacles_film" width="450" />
   <img src="https://laura-read.github.io/portfolio/me_sailing.jpg" alt="sailing_bumblebee" width="400" />
 </p>
 
