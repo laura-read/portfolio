@@ -10,7 +10,7 @@ The links below are blogs of my professional and tertiary experiences. Please pe
 
 <a href="https://laura-read.github.io/portfolio/wrt-photo-points.html" target="_blank" rel="noopener noreferrer">WRT Photo Points</a>: my experience interning at the *Waiheke Resource Trust*, focusing on adding a photo points layer to their *Love Our Wetlands Waiheke* map. 
 
-<a href="https://laura-read.github.io/portfolio/network_analysis_242.html" target="_blank" rel="noopener noreferrer">[Network Analysis: Mt Eden Train Station</a>: my fourth assignment for GISCI 242: Principles of GIScience, focusing on finding the 2013 Auckland population that could potentially be served by the Mt Eden Train Station.
+<a href="https://laura-read.github.io/portfolio/network_analysis_242.html" target="_blank" rel="noopener noreferrer">Network Analysis: Mt Eden Train Station</a>: my fourth assignment for GISCI 242: Principles of GIScience, focusing on finding the 2013 Auckland population that could potentially be served by the Mt Eden Train Station.
 
 <a href="https://laura-read.github.io/portfolio/stats220_a5.html" target="_blank" rel="noopener noreferrer">Happiness and Music</a>: my final assignment for STATS 220: Data Technologies, focusing on creating and visulising data from digital sources using `R`. 
 
