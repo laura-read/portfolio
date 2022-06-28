@@ -13,9 +13,7 @@ I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised
 
 When I'm not studying or working, you can find me learning to sail on my Farr 727 called *Bumblebee*, hiking around Aotearoa, or relaxing and crocheting. 
 
-<img src="https://laura-read.github.io/portfolio/me_sailing.jpg" alt="sailing_bumblebee" width="200"/>
-
-![sailing_bumblebee](https://laura-read.github.io/portfolio/me_sailing.jpg)
+<img src="https://laura-read.github.io/portfolio/me_sailing.jpg" alt="sailing_bumblebee" width="400"/> <img src="https://laura-read.github.io/portfolio/me_mt_pirongia.jpg" alt="mt_pirongia" width="400"/> 
 
 ## Contact 
 Here is [my LinkedIn](https://www.linkedin.com/in/laura-read-hello/). You can also reach me by email at lauralynetteread@gmail.com. 
