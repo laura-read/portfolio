@@ -1,6 +1,8 @@
 # Portfolio
 
-Tēnā koe e hoa! Hello my fellow geospatial enthuesiasts. 
+Tēnā koe e hoa! 
+
+Hello my fellow geospatial enthuesiasts. My name is Laura and this is my portfolio. 
 
 ## Blogs
 
@@ -15,6 +17,7 @@ When I'm not studying or working, you can find me learning to sail on my Farr 72
 
 <p align="center">
   <img src="https://laura-read.github.io/portfolio/me_sailing.jpg" alt="sailing_bumblebee" width="400" />
+  <img src="https://laura-read.github.io/portfolio/me_pinnacles.jpg" alt="pinnacles_film" width="400" />
 </p>
 
 ## Contact 
