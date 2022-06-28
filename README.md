@@ -13,6 +13,8 @@ I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised
 
 When I'm not studying or working, you can find me learning to sail on my Farr 727 called *Bumblebee*, hiking around Aotearoa, or relaxing and crocheting. 
 
+<img src="me_saililng.jpg" alt="sailing_bumblebee" width="200"/>
+
 ![sailing_bumblebee](https://laura-read.github.io/portfolio/me_sailing.jpg)
 
 ## Contact 
